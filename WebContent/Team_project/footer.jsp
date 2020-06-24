@@ -43,7 +43,9 @@
   <div class="row">
     <div class="col-lg-5 col-xs-12 about-company">
       <h2>Heading</h2>
-      <p class="pr-5 text-white-50">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam ac ante mollis quam tristique convallis </p>
+      <p class="pr-5 text-white-50">반려동물을 처음 집에 데리고오면 모르는 것이 너무 많습니다.<br>
+																		데일리케어, 질병 정보, 행동/훈련 정보 등<br> 개냥이에서 차근히 공부해보세요.<br>
+																		찾을 수 없는 정보가 있으면 질문란에 글을 남겨 주세요 </p>	
       <p><a href="#"><i class="fa fa-facebook-square mr-1"></i></a><a href="#"><i class="fa fa-linkedin-square"></i></a></p>
     </div>
     <div class="col-lg-3 col-xs-12 links">
@@ -59,14 +61,14 @@
     </div>
     <div class="col-lg-4 col-xs-12 location">
       <h4 class="mt-lg-0 mt-sm-4">Location</h4>
-      <p>22, Lorem ipsum dolor, consectetur adipiscing</p>
-      <p class="mb-0"><i class="fa fa-phone mr-3"></i>(541) 754-3010</p>
+      <p>대한민국 전국 각 지역</p>
+      <p class="mb-0"><i class="fa fa-phone mr-3"></i>010-1234-5678</p>
       <p><i class="fa fa-envelope-o mr-3"></i>info@hsdf.com</p>
     </div>
   </div>
   <div class="row mt-5">
     <div class="col copyright">
-      <p class=""><small class="text-white-50">© 2019. All Rights Reserved.</small></p>
+      <p class=""><small class="text-white-50">© 2020. All Rights Reserved.</small></p>
     </div>
   </div>
 </div>
